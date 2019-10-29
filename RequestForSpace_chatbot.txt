@@ -1,0 +1,10 @@
+The bot interacts with the user till he answers the venue he wants to select.
+The bot disconnects when user enters quit.
+While working with the chatbot the regular expression to match the chat where tricky.Because it often stucked in the pair for unexpected questions, which made the chat repetitive and inefficient.
+I have tried to handle most of the scenarios. I have also tried to make my bot interactive.
+
+
+
+
+Youtube link for screen recording of the HW4_Q2 chatbot
+https://youtu.be/WaXbvLPOtEU
